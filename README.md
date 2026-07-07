@@ -65,6 +65,6 @@ dashboard is a common and avoidable source of error.
 
 ## About
 
-Built by [your name] as part of an MS in Applied Data Analytics, drawing on prior experience
+Built by Bhagwant Negi as part of an MS in Applied Data Analytics, drawing on prior experience
 in automotive sales and business development (Honda, Mahindra & Mahindra) to frame the
 business implications of the data.
